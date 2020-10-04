@@ -10,3 +10,4 @@
 | Vaibhav Tripathi  | vaibhavtripathi1209 |
 | Ivan Ganatra | ivanganatra|
 | Amina Faiz   | FAIZ113 |
+| Ishita Jain   | Ishcheen |
